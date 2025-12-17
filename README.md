@@ -1,11 +1,13 @@
 # 💫 Hi 👋, I'm Yash Tambade
-**1st year engineering student**
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="1000"/>
+</p>
+
+
+**I am a B.Tech Engineering student passionate about coding and technology, specializing in Python development and Scratch game creation. With hands-on experience.**
 
 <!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashhh_710) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-tambade-173508379) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashtambade56@gmail.com) 
@@ -16,6 +18,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=yashtambade56-ux&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=yashtambade56-ux&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashtambade56-ux&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yashtambade56-ux&limit=5&theme=dark&combine_all_yearly_contributions=true)
