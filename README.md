@@ -47,15 +47,6 @@ I am a **B.Tech Computer Science student** specializing in high-end frontend exp
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashtambade56-ux&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
-
----
-
 ### 📊 GitHub Analytics
 
 <p align="center">
