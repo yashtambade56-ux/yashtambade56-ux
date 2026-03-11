@@ -7,7 +7,7 @@
 
 ---
 
-### 👨‍💻 Professional Summary
+### 👨‍💻 Summary
 I am a **B.Tech Computer Science student** specializing in high-end frontend experiences and interactive logic. I focus on bridging the gap between clean code and cinematic design.
 
 - 🌍 **Portfolio**: [yashhh710.github.io/Portfolio_v1/](https://yashhh710.github.io/Portfolio_v1/)
