@@ -40,7 +40,6 @@ I am a **B.Tech Computer Science student** specializing in high-end frontend exp
 
 #### 🛠️ Tools & Platforms
 <p align="left">
-  <img src="https://img.icons8.com/color/35/000000/git.png" alt="git"/> &nbsp;
   <img src="https://img.icons8.com/glyph-neue/35/ffffff/github.png" alt="github"/> &nbsp;
   <img src="https://img.icons8.com/color/35/000000/visual-studio-code-2019.png" alt="vscode"/> &nbsp;
 </p>
