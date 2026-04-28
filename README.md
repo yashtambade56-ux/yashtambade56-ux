@@ -10,7 +10,8 @@
 ### 👨‍💻 Summary
 I am a **B.Tech Computer Science student** specializing in high-end frontend experiences and interactive logic. I focus on bridging the gap between clean code and cinematic design.
 
-- 🌍 **Portfolio**: [yashhh710.github.io/Portfolio_v1/](https://yashhh710.github.io/Portfolio_v1/)
+- 🌍 **Portfolio**: [yashhh710.github.io/portfolio-v4/](https://portfolio-v4-three-mauve.vercel.app/)
+- 🥷🏼 **Toon style Portfolio**: [yashhh710.github.io/Portfolio_v1/](https://yashhh710.github.io/Portfolio_v1/)
 - 🛠️ **Expertise**: Responsive Web Design, AI Integration, and Game Logic.
 - ⚡ **Goal**: Building seamless, performance-driven user interfaces.
 
